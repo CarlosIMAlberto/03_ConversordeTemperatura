@@ -28,6 +28,6 @@ Este é um projeto simples feito em C# com o objetivo de praticar a conversão e
 
 ## ✍️ Autor
 
-Carlos Alberto — [LinkedIn](https://www.linkedin.com/in/carlos-alberto-310b2a2b3/)
+Carlos Alberto — [LinkedIn](https://www.linkedin.com/in/carlos-alberto-562484353/)
 
 > Este projeto faz parte da minha jornada prática como estudante de Engenharia Informática. Ele integra meu portfólio de aprendizado voltado à construção de habilidades técnicas reais.
